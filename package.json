@@ -1,0 +1,26 @@
+{
+  "name": "hackatonfict2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devich2/HackatonFICT2020.git"
+  },
+  "author": "Devid Shylyuk, Duda Vova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devich2/HackatonFICT2020/issues"
+  },
+  "homepage": "https://github.com/devich2/HackatonFICT2020#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.1",
+    "material-components-web": "^9.0.0",
+    "material-design": "0.0.1",
+    "react": "^17.0.1",
+    "react-masonry-component": "^6.2.1"
+  }
+}
